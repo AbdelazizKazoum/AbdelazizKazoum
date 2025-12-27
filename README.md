@@ -1,3 +1,15 @@
+no jusy keep it like that only add the icons i told you to the skills icons : # Hi, I'm Abdelaziz! 👋
+
+- 👨‍💻 **Currently working on:** Fullstack Web Development  
+- 🌱 **Actively learning:** Open Source, DevOps, and Cloud ☁️🔥  
+- 💬 **Ask me about:** React, Next.js, NestJS, NoSQL/SQL, and more  
+- 😄 **Pronouns:** He/Him  
+- ⚡ **Fun fact:** I'm always curious and love exploring new technologies 🤖  
+
+---
+
+## 🛠️ Languages & Tools
+
 <p align="left">
   <!-- Frameworks & Libraries -->
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
