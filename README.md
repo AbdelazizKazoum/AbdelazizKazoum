@@ -1,4 +1,4 @@
-no jusy keep it like that only add the icons i told you to the skills icons : # Hi, I'm Abdelaziz! 👋
+# Hi, I'm Abdelaziz! 👋
 
 - 👨‍💻 **Currently working on:** Fullstack Web Development  
 - 🌱 **Actively learning:** Open Source, DevOps, and Cloud ☁️🔥  
